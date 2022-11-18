@@ -14,6 +14,8 @@ public class Test {
 		System.out.println("a-- = " + (a--));
 		System.out.println("d++ = " + (d++));
 		System.out.println("++d = " + (++d));
+		System.out.println("d-- = " + (d--));
+		System.out.println("++a = " + (++a));
 		
 	}
 } 
